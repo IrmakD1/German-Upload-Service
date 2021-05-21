@@ -1,0 +1,7 @@
+node_modules
+.vscode
+.env
+firestore-init.json
+combined.log
+error.log
+/dist
